@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KursovoyGrey", "KursovoyGrey\KursovoyGrey.csproj", "{887E7588-7F35-4BAE-927E-E8A91F7A6111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilkFactoryLibrary1", "MilkFactoryLibrary1\MilkFactoryLibrary1.csproj", "{A79A293C-72B6-4150-AF9F-218647669716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{887E7588-7F35-4BAE-927E-E8A91F7A6111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{887E7588-7F35-4BAE-927E-E8A91F7A6111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{887E7588-7F35-4BAE-927E-E8A91F7A6111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{887E7588-7F35-4BAE-927E-E8A91F7A6111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A79A293C-72B6-4150-AF9F-218647669716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79A293C-72B6-4150-AF9F-218647669716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79A293C-72B6-4150-AF9F-218647669716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79A293C-72B6-4150-AF9F-218647669716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F0BFF4-82BF-46E2-B2D8-6A315A12FB78}
+	EndGlobalSection
+EndGlobal
